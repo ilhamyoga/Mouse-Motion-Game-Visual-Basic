@@ -1,0 +1,42 @@
+C:\Users\Nur Ardiono K\AppData\Local\Temporary Projects\Game Sederhana\bin\Debug\Game Sederhana.exe.config
+C:\Users\Nur Ardiono K\AppData\Local\Temporary Projects\Game Sederhana\obj\Debug\Game Sederhana.vbprojResolveAssemblyReference.cache
+C:\Users\Nur Ardiono K\AppData\Local\Temporary Projects\Game Sederhana\obj\Debug\Game_Sederhana.Resources.resources
+C:\Users\Nur Ardiono K\AppData\Local\Temporary Projects\Game Sederhana\obj\Debug\Game Sederhana.vbproj.GenerateResource.Cache
+C:\Users\Nur Ardiono K\AppData\Local\Temporary Projects\Game Sederhana\obj\Debug\Game Sederhana.xml
+C:\Users\Nur Ardiono K\AppData\Local\Temporary Projects\Game Sederhana\bin\Debug\Game Sederhana.exe
+C:\Users\Nur Ardiono K\AppData\Local\Temporary Projects\Game Sederhana\bin\Debug\Game Sederhana.pdb
+C:\Users\Nur Ardiono K\AppData\Local\Temporary Projects\Game Sederhana\bin\Debug\Game Sederhana.xml
+C:\Users\Nur Ardiono K\AppData\Local\Temporary Projects\Game Sederhana\obj\Debug\Game_Sederhana.Form1.resources
+C:\Users\Nur Ardiono K\AppData\Local\Temporary Projects\Game Sederhana\obj\Debug\Game Sederhana.exe
+C:\Users\Nur Ardiono K\AppData\Local\Temporary Projects\Game Sederhana\obj\Debug\Game Sederhana.pdb
+C:\Users\Nur Ardiono K\Documents\Visual Studio 2015\Projects\Game Sederhana\Game Sederhana\bin\Debug\Game Sederhana.exe.config
+C:\Users\Nur Ardiono K\Documents\Visual Studio 2015\Projects\Game Sederhana\Game Sederhana\obj\Debug\Game Sederhana.exe
+C:\Users\Nur Ardiono K\Documents\Visual Studio 2015\Projects\Game Sederhana\Game Sederhana\obj\Debug\Game Sederhana.xml
+C:\Users\Nur Ardiono K\Documents\Visual Studio 2015\Projects\Game Sederhana\Game Sederhana\obj\Debug\Game Sederhana.pdb
+C:\Users\Nur Ardiono K\Documents\Visual Studio 2015\Projects\Game Sederhana\Game Sederhana\bin\Debug\Game Sederhana.exe
+C:\Users\Nur Ardiono K\Documents\Visual Studio 2015\Projects\Game Sederhana\Game Sederhana\bin\Debug\Game Sederhana.pdb
+C:\Users\Nur Ardiono K\Documents\Visual Studio 2015\Projects\Game Sederhana\Game Sederhana\bin\Debug\Game Sederhana.xml
+C:\Users\Nur Ardiono K\Documents\Visual Studio 2015\Projects\Game Sederhana\Game Sederhana\obj\Debug\Game Sederhana.vbprojResolveAssemblyReference.cache
+C:\Users\Nur Ardiono K\Documents\Visual Studio 2015\Projects\Game Sederhana\Game Sederhana\obj\Debug\Game_Sederhana.Form1.resources
+C:\Users\Nur Ardiono K\Documents\Visual Studio 2015\Projects\Game Sederhana\Game Sederhana\obj\Debug\Game_Sederhana.Resources.resources
+C:\Users\Nur Ardiono K\Documents\Visual Studio 2015\Projects\Game Sederhana\Game Sederhana\obj\Debug\Game Sederhana.vbproj.GenerateResource.Cache
+D:\Game Sederhana\Game Sederhana\bin\Debug\Game Sederhana.exe.config
+D:\Game Sederhana\Game Sederhana\obj\Debug\Game Sederhana.exe
+D:\Game Sederhana\Game Sederhana\obj\Debug\Game Sederhana.xml
+D:\Game Sederhana\Game Sederhana\obj\Debug\Game Sederhana.pdb
+D:\Game Sederhana\Game Sederhana\bin\Debug\Game Sederhana.exe
+D:\Game Sederhana\Game Sederhana\bin\Debug\Game Sederhana.pdb
+D:\Game Sederhana\Game Sederhana\bin\Debug\Game Sederhana.xml
+D:\Game Sederhana\Game Sederhana\obj\Debug\Game Sederhana.vbprojResolveAssemblyReference.cache
+D:\Game Sederhana\Game Sederhana\obj\Debug\Game_Sederhana.Form1.resources
+D:\Game Sederhana\Game Sederhana\obj\Debug\Game_Sederhana.Resources.resources
+D:\Game Sederhana\Game Sederhana\obj\Debug\Game Sederhana.vbproj.GenerateResource.Cache
+D:\Game Sederhana\Game Sederhana\obj\Debug\Game_Sederhana.tutor.resources
+D:\Game Sederhana\Game Sederhana\obj\Debug\Game_Sederhana.level.resources
+D:\Game Sederhana\Game Sederhana\obj\Debug\Game_Sederhana.lvel1.resources
+D:\Game Sederhana\Game Sederhana\obj\Debug\Game_Sederhana.lvel2.resources
+D:\Game Sederhana\Game Sederhana\obj\Debug\Game_Sederhana.lvel3.resources
+E:\Tugas\VB\Game Sederhana\Game Sederhana\bin\Debug\Game Sederhana.exe.config
+E:\Tugas\VB\Game Sederhana\Game Sederhana\obj\Debug\Game Sederhana.exe
+E:\Tugas\VB\Game Sederhana\Game Sederhana\obj\Debug\Game Sederhana.xml
+E:\Tugas\VB\Game Sederhana\Game Sederhana\obj\Debug\Game Sederhana.pdb
